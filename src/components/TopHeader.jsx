@@ -9,7 +9,7 @@ import { IoLogoInstagram } from "react-icons/io5";
 
 const TopHeader = () => {
   return (
-   <section className='py-2 bg-hbg'>
+   <section className='py-2 bg-hbg border-b-[#FFB800] border-b-2'>
     <div className='max-w-Container mx-auto'>
        <div className='flex items-center flex-wrap'>
         <div className='w-full lg:w-1/4'>

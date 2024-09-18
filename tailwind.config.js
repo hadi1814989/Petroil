@@ -19,8 +19,12 @@ export default {
         
       },
       backgroundImage: {
-        'ban-img': "url('C:\Users\Ulumid diniyyah\Desktop\myProject\Teliwind Project\my-project\src\assets\ban-img.png')",
-      },
+        'bannerImg': "url('./assets/ban-img.png')",
+        'aboutImg': "url('./assets/aboutImg.png')",
+        'blogImg': "url('./assets/blog-img1.png')",
+        'blogImg2': "url('./assets/blog-img2.png')",
+        'blogImg3': "url('./assets/blog-img3.png')",
+         },
     },
   },
   plugins: [],
