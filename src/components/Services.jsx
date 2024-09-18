@@ -1,5 +1,5 @@
 import React from 'react'
-import serImg1 from "../assets/ser-Img1.png"
+import serImg1 from '../assets/ser-Img1.png';
 import serImg2 from "../assets/ser-Img2.png"
 import serImg3 from "../assets/ser-Img3.png"
 
